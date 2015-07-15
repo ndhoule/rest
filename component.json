@@ -1,7 +1,7 @@
 {
   "name": "rest",
   "repo": "ndhoule/rest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Produce a new array composed of all but the first element of the input collection.",
   "keywords": [
     "rest",
