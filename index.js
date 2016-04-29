@@ -1,11 +1,5 @@
 'use strict';
 
-/**
- * Cache `Math.max` reference.
- *
- * @api private
- */
-
 var max = Math.max;
 
 /**
@@ -20,7 +14,6 @@ var max = Math.max;
  * @example
  * rest([1, 2, 3]); // => [2, 3]
  */
-
 var rest = function rest(collection) {
   if (collection == null || !collection.length) {
     return [];
@@ -38,7 +31,7 @@ var rest = function rest(collection) {
   return results;
 };
 
-/**
+/*
  * Exports.
  */
 
