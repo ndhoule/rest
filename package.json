@@ -1,6 +1,6 @@
 {
   "name": "@ndhoule/rest",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Produce a new array composed of all but the first element of the input collection.",
   "main": "index.js",
   "repository": {
